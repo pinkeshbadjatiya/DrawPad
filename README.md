@@ -2,8 +2,8 @@
 A digital chalkboard
 
 
-mouse.php - 
-client_new.php - 
+mouse.php -  Server page  
+client_new.php - Client page  
 
 #### Note:
 1. Do not change the name of main directory. It should be 'DrawPad'.
