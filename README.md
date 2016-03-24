@@ -1,6 +1,6 @@
 # DrawPad
 A digital chalkboard.
-It is a simple web-based app built using `php`, `javascript` and `svg`.It can be used as a black board to draw/write stuff which can be viewed by the client in REALTIME. He can even make notes of the draw-board and text content as screenshot which gets saved locally, which can then be exported to PDF for reference.
+It is a simple web-based app built using `php`, `javascript` and `svg`.It can be used as a black board to draw/write stuff which can be viewed by the clients in REALTIME. He can even make notes of the draw-board and text content as screenshot which gets saved locally, which can then be exported to PDF for reference.
 
 `mouse.php` -  Server page  
 `client_new.php` - Client page  
